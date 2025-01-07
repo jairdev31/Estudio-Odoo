@@ -1,0 +1,6 @@
+"id","name","model_id:id","group_id:id","perm_write","perm_create","perm","perm_unlink"
+grades_course_acces,grades.grades_course.acces,model_grades_course,base.group_user,1,1,1,1
+
+
+#// id es el id de la restriccion,nombre de la restriccion, nombre exacto del modelo, y group es para determinar que grupo de usuarios tiene acceso a este modelo 
+
